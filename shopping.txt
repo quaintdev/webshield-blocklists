@@ -1,0 +1,4 @@
+amazon.in
+amazon.com
+flipkart.com
+myntra.com

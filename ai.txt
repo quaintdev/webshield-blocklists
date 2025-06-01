@@ -1,0 +1,7 @@
+chatgpt.com
+claude.ai
+ideogram.ai
+deepseek.com
+bard.google.com
+gemini.google.com
+aistudio.google.com
